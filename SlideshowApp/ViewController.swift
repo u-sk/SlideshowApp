@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     var displayImageNo = 0
     
     // 画像の名前の配列
-    let imageNameArray = ["pug1", "cat1", "dog2", "pug1", "cat1"]
+    let imageNameArray = ["pug1", "cat1", "dog2", "pug2", "pug3"]
     
     // 一定の間隔で処理を行うためのタイマー
     var timer: Timer!
