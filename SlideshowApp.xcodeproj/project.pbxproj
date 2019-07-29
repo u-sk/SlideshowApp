@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0215955F22EF11870062E39A /* pug1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215955A22EF11870062E39A /* pug1.png */; };
-		0215956022EF11870062E39A /* cat1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215955B22EF11870062E39A /* cat1.png */; };
-		0215956122EF11870062E39A /* dog2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215955C22EF11870062E39A /* dog2.png */; };
-		0215956222EF11870062E39A /* pug3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215955D22EF11870062E39A /* pug3.png */; };
-		0215956322EF11870062E39A /* pug2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215955E22EF11870062E39A /* pug2.png */; };
+		0215956922EF244D0062E39A /* pug2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215956422EF244D0062E39A /* pug2.png */; };
+		0215956A22EF244D0062E39A /* dog2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215956522EF244D0062E39A /* dog2.png */; };
+		0215956B22EF244D0062E39A /* pug1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215956622EF244D0062E39A /* pug1.png */; };
+		0215956C22EF244D0062E39A /* pug3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215956722EF244D0062E39A /* pug3.png */; };
+		0215956D22EF244D0062E39A /* cat1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0215956822EF244D0062E39A /* cat1.png */; };
 		02B435A222E7EE10007B7107 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B435A122E7EE10007B7107 /* AppDelegate.swift */; };
 		02B435A422E7EE10007B7107 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B435A322E7EE10007B7107 /* ViewController.swift */; };
 		02B435A722E7EE10007B7107 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02B435A522E7EE10007B7107 /* Main.storyboard */; };
@@ -21,11 +21,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0215955A22EF11870062E39A /* pug1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pug1.png; path = ../../../pug1.png; sourceTree = "<group>"; };
-		0215955B22EF11870062E39A /* cat1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cat1.png; path = ../../../cat1.png; sourceTree = "<group>"; };
-		0215955C22EF11870062E39A /* dog2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dog2.png; path = ../../../dog2.png; sourceTree = "<group>"; };
-		0215955D22EF11870062E39A /* pug3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pug3.png; path = ../../../pug3.png; sourceTree = "<group>"; };
-		0215955E22EF11870062E39A /* pug2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pug2.png; path = ../../../pug2.png; sourceTree = "<group>"; };
+		0215956422EF244D0062E39A /* pug2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pug2.png; sourceTree = "<group>"; };
+		0215956522EF244D0062E39A /* dog2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog2.png; sourceTree = "<group>"; };
+		0215956622EF244D0062E39A /* pug1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pug1.png; sourceTree = "<group>"; };
+		0215956722EF244D0062E39A /* pug3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pug3.png; sourceTree = "<group>"; };
+		0215956822EF244D0062E39A /* cat1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat1.png; sourceTree = "<group>"; };
 		02B4359E22E7EE10007B7107 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02B435A122E7EE10007B7107 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		02B435A322E7EE10007B7107 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,11 +70,11 @@
 				02B435A322E7EE10007B7107 /* ViewController.swift */,
 				02B435A522E7EE10007B7107 /* Main.storyboard */,
 				02B435A822E7EE11007B7107 /* Assets.xcassets */,
-				0215955B22EF11870062E39A /* cat1.png */,
-				0215955C22EF11870062E39A /* dog2.png */,
-				0215955A22EF11870062E39A /* pug1.png */,
-				0215955E22EF11870062E39A /* pug2.png */,
-				0215955D22EF11870062E39A /* pug3.png */,
+				0215956822EF244D0062E39A /* cat1.png */,
+				0215956522EF244D0062E39A /* dog2.png */,
+				0215956622EF244D0062E39A /* pug1.png */,
+				0215956422EF244D0062E39A /* pug2.png */,
+				0215956722EF244D0062E39A /* pug3.png */,
 				02B435AA22E7EE11007B7107 /* LaunchScreen.storyboard */,
 				02B435AD22E7EE11007B7107 /* Info.plist */,
 				02B435DF22E82E29007B7107 /* ZoomInViewController.swift */,
@@ -140,14 +140,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0215955F22EF11870062E39A /* pug1.png in Resources */,
-				0215956322EF11870062E39A /* pug2.png in Resources */,
-				0215956022EF11870062E39A /* cat1.png in Resources */,
 				02B435AC22E7EE11007B7107 /* LaunchScreen.storyboard in Resources */,
+				0215956A22EF244D0062E39A /* dog2.png in Resources */,
+				0215956B22EF244D0062E39A /* pug1.png in Resources */,
+				0215956922EF244D0062E39A /* pug2.png in Resources */,
+				0215956D22EF244D0062E39A /* cat1.png in Resources */,
 				02B435A922E7EE11007B7107 /* Assets.xcassets in Resources */,
+				0215956C22EF244D0062E39A /* pug3.png in Resources */,
 				02B435A722E7EE10007B7107 /* Main.storyboard in Resources */,
-				0215956222EF11870062E39A /* pug3.png in Resources */,
-				0215956122EF11870062E39A /* dog2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
